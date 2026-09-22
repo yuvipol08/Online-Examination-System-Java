@@ -179,5 +179,6 @@ was **not** tested.
 | `docs/BCA_Project_Report_Online_Examination_System.docx` | the full project report (43 pages) |
 | `docs/diagrams/` | architecture, use case, class, ER, sequence and activity diagrams |
 | `docs/screenshots/` | screenshots of every screen, taken from the running application |
+| `SETUP_WINDOWS.md` | step by step installation and running on Windows |
 | `STUDENT_GUIDE.md` | how the project works, explained file by file |
 | `VIVA_QUICK_REFERENCE.md` | short answers to the questions most likely to be asked |
