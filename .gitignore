@@ -1,0 +1,19 @@
+# Build output
+target/
+*.class
+*.jar
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+nbproject/
+build/
+dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+dependency-reduced-pom.xml
